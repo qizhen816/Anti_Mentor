@@ -7,7 +7,9 @@ This is an honorable instrunction of automatically warning yourself when working
 *需要满足的条件*：TP-Link路由器，否则需要自行修改页面逻辑
 
 **我爬虫太菜了，不会写路由器的加密逻辑，现在需要人工输入加密后的密码，将会在最近更新自动登录功能**
-程序中需要自行改动的地方已标出。
+
+#程序中需要自行改动的地方已标出。
+
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo1.png)
 1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。
       首先你需要：a）打开tplogin.cn，进入tplink管理员登录页面，输入密码，登录成功，确保你的密码是正确的。

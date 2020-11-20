@@ -11,8 +11,6 @@ This is an honorable instrunction of automatically warning yourself when working
 
 程序中需要自行改动的地方已标出。
 
-
-
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo1.png)
 1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。
       首先你需要：a）打开tplogin.cn，进入tplink管理员登录页面，输入密码，登录成功，确保你的密码是正确的。
@@ -28,11 +26,11 @@ This is an honorable instrunction of automatically warning yourself when working
 
 #运行代码：
 
-Win+r打开“运行”对话框
-cd  *****(你的webcam_alert.py所在的目录）
-python webcam_alert.py
+  Win+r打开“运行”对话框
+  cd  *****(你的webcam_alert.py所在的目录）
+  python webcam_alert.py
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo4.png)
-然后就大功告成啦！！！！
+  然后就大功告成啦！！！！
 
 #TODO： 
 自动化登录（填充账号密码），使用selenium模拟浏览器实现  

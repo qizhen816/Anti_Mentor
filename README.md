@@ -15,7 +15,7 @@ This is an honorable instrunction of automatically warning yourself when working
 1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。  
 首先你需要：  
 a）打开tplogin.cn，进入tplink管理员登录页面，输入密码，登录成功，确保你的密码是正确的。  
-b）访问http://192.168.1.1 和http://192.168.0.1， 输入你的密码，跳转成功的页面即为对应的路由器管理页面ip，将正确的ip填到程序里。  
+b）访问http://192.168.1.1 和http://192.168.0.1 ， 输入你的密码，跳转成功的页面即为对应的路由器管理页面ip，将正确的ip填到程序里。  
 
 2. 找到加密后的密码：    
 在登陆之前按F12开启开发者模式，点击登录后，去network->all->name下面找到tplogin.cn,即可获得对应加密后的密码，将对应的加密后的密码复制到程序中修改。  

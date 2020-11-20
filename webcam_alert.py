@@ -12,7 +12,7 @@ url = 'http://192.168.1.1'
 url_s = 'http://192.168.1.1/cgi-bin#/pc/deviceManage'
 # 加密后的密码
 pwd = "o1T3EXQ%2FZ44WZebcXbfHb%2BVbzmvM3WqH3EmJwJ%2FBh3M%2BISZSeKBe6yXMf6OI4oOglglSghzUxYtSi%2Fmvfy3f%2BOVkgJdTlaIKocS0pU8cyFZDWZuikoQoaK8Kw7XWxd9u2v7PGdEpVP1ajapolS%2BzRFFQTgpGBEIPid3hKV8MVic%3D"
-# 路由器设备控制页面的摄像头名称，可以自行修改
+# 路由器设备控制页面的摄像头的mac地址
 dev_name = "SXT"
 # 上传速度阈值 KB/s
 limit = 10

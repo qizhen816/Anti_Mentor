@@ -12,19 +12,19 @@ This is an honorable instrunction of automatically warning yourself when working
 程序中需要自行改动的地方已标出。
 
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo1.png)
-1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。
-      首先你需要：a）打开tplogin.cn，进入tplink管理员登录页面，输入密码，登录成功，确保你的密码是正确的。
-               b）访问http://192.168.1.1 和http://192.168.0.1， 输入你的密码，跳转成功的页面即为对应的路由器管理页面ip，将正确的ip填到程序里。
+1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。  
+        首先你需要：a）打开tplogin.cn，进入tplink管理员登录页面，输入密码，登录成功，确保你的密码是正确的。  
+                   b）访问http://192.168.1.1 和http://192.168.0.1， 输入你的密码，跳转成功的页面即为对应的路由器管理页面ip，将正确的ip填到程序里。  
 
-2. 找到加密后的密码：
-       在登陆之前按F12开启开发者模式，点击登录后，去network->all->name下面找到tplogin.cn,即可获得对应加密后的密码，将对应的加密后的密码复制到程序中修改。
+2. 找到加密后的密码：  
+       在登陆之前按F12开启开发者模式，点击登录后，去network->all->name下面找到tplogin.cn,即可获得对应加密后的密码，将对应的加密后的密码复制到程序中修改。  
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo2.png)
 
-3.你要监控的设备的mac地址
-    进入登录页面后，点击设备管理，找到你要监控的设备之后点击管理，记录此处的mac地址，复制到程序中：
+3.你要监控的设备的mac地址  
+    进入登录页面后，点击设备管理，找到你要监控的设备之后点击管理，记录此处的mac地址，复制到程序中：  
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo3.png)
 
-#运行代码：
+#运行代码：  
 
 Win+r打开“运行”对话框  
 cd  *****(你的webcam_alert.py所在的目录）  

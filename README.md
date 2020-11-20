@@ -1,7 +1,7 @@
 # Anti_Mentor
 This is an honorable instrunction of automatically warning yourself when working fish in lab.
 
-#如何在办公室反监控小米摄像头快乐摸鱼  
+*如何在办公室反监控小米摄像头快乐摸鱼*  
 主要思路是模拟浏览器登录路由器管理网页→进入监控流量上传下载的子网页→找到摄像头ID→监控上传流量→发现异常报警，打开学术页面
 
 *需要满足的条件*：TP-Link路由器，否则需要自行修改页面逻辑

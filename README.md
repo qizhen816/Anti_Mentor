@@ -26,11 +26,13 @@ This is an honorable instrunction of automatically warning yourself when working
 
 #运行代码：
 
-  Win+r打开“运行”对话框
-  cd  *****(你的webcam_alert.py所在的目录）
-  python webcam_alert.py
+Win+r打开“运行”对话框  
+cd  *****(你的webcam_alert.py所在的目录）  
+python webcam_alert.py   
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo4.png)
-  然后就大功告成啦！！！！
+然后就大功告成啦！！！！  
+
+
 
 #TODO： 
 自动化登录（填充账号密码），使用selenium模拟浏览器实现  

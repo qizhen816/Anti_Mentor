@@ -8,7 +8,10 @@ This is an honorable instrunction of automatically warning yourself when working
 
 **我爬虫太菜了，不会写路由器的加密逻辑，现在需要人工输入加密后的密码，将会在最近更新自动登录功能**
 
-#程序中需要自行改动的地方已标出。
+
+程序中需要自行改动的地方已标出。
+
+
 
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo1.png)
 1. 路由器管理页登录ip，一般是192.168.0.1或者192.168.1.1。

@@ -19,8 +19,8 @@ b）访问http://192.168.1.1 和http://192.168.0.1， 输入你的密码，跳�
 
 2. 找到加密后的密码：    
 在登陆之前按F12开启开发者模式，点击登录后，去network->all->name下面找到tplogin.cn,即可获得对应加密后的密码，将对应的加密后的密码复制到程序中修改。  
-![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo2.png)
-
+![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo2.png)  
+  
 3.你要监控的设备的mac地址    
 进入登录页面后，点击设备管理，找到你要监控的设备之后点击管理，记录此处的mac地址，复制到程序中：    
 ![Image text](https://github.com/xingyi122/Anti_Mentor/blob/main/photo/readme-photo3.png)
